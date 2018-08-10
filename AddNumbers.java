@@ -8,7 +8,7 @@ public class AddNumbers {
         System.out.println("Enter First Number: ");
         num1 = sc.nextInt();
         
-        System.out.println("Enter Second Number: ");
+        System.out.println("Enter second entry: ");
         num2 = sc.nextInt();
         
         sc.close();
